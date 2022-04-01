@@ -1,7 +1,7 @@
 Hi, I’m Anuroop Shivdasan@shivdazed. I'm a Computer Engineer who looks for problems which are perplexing, paralysing and paradoxical. 
 Challenging the OPtimal Worst Case Scenario is my principle for efficient programming
 
-Recursiveness can be utillized to create and discover new Chirally bound functions.(The functions and the anti function)
+Recursiveness can be utillized to create and discover new Chirally bound functions.(The functions and its anti function)
 
 I’m perplexed in the concept of learning implented with a programmatic and algorithmic approach; all of which are done in iterations.
 
@@ -10,7 +10,7 @@ I’m currently learning methods to create my own custom machine learning functi
 I’m looking to collaborate on Convolutional Neural Networks which may help to study the ginourmous functionalities of the Human Brain and possibly unravel 
 human conciousness
 📫 How to reach me ... shivandru@gmail.com
-This repository contains the sum of all promgrams I have practised and created from scratch on PyCHARM IDE.
+This repository contains the sum of all programs I have practised and created from scratch on PyCHARM IDE.
 
 It contains the tutorial programs as well as a few projects and their respective source code from a Python and Data certification course.
 Alongside other ventures I have taken such as 
