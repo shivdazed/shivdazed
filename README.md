@@ -18,7 +18,7 @@ Miniprojects in Python https://www.youtube.com/watch?v=8ext9G7xspg
 Rocketship destroyer(using PyGame library)
 Audio Visualiser and Analyzer using Pysound and PI libraries
 Some fun practise sessions in Turtle
-and many more simple but in involving programs and exercises.
+and many more simple but involving programs and exercises.
 
 
 <!---
