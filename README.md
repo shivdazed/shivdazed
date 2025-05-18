@@ -1,7 +1,5 @@
-Hi, I’m Anuroop Shivdasan@shivdazed. I'm a Computer Engineer who looks for problems which are perplexing, paralysing and paradoxical. 
-Challenging the OPtimal Worst Case Scenario is my principle for efficient programming
-
-Recursiveness can be utillized to create and discover new Chirally bound functions.(The functions and its anti function)
+Hi, I’m Anuroop Shivdasan@shivdazed. I'm a Machine Learning Engineer who looks for problems which are perplexing, paralysing and paradoxical. 
+Challenging the Optimal Worst Case Scenario is my principle for efficient programming
 
 I’m perplexed in the concept of learning implented with a programmatic and algorithmic approach; all of which are done in iterations.
 
