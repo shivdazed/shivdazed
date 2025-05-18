@@ -1,11 +1,7 @@
 Hi, I’m Anuroop Shivdasan@shivdazed. I'm a Machine Learning Engineer who looks for problems which are perplexing, paralysing and paradoxical. 
-Challenging the Optimal Worst Case Scenario is my principle for efficient programming
+Challenging the Optimal Worst Case Scenario is my principle for efficient programming.
 
-I’m perplexed in the concept of learning implented with a programmatic and algorithmic approach; all of which are done in iterations.
-
-I’m currently learning methods to create my own custom machine learning functions in Python. 
-
-I’m looking to collaborate on Convolutional Neural Networks which may help to study the ginourmous functionalities of the Human Brain and possibly unravel 
+Devoloping algorithms and system networks using Agentic AI tools as the core framework which may help to study the extensive functionalities of the Human Brain and possibly unravel 
 human conciousness
 📫 How to reach me ... shivandru@gmail.com
 This repository contains the sum of all programs I have practised and created from scratch on PyCHARM IDE.
